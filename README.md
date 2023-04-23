@@ -2,7 +2,7 @@
 
 [![build Actions Status](https://github.com/nakamorg/rei-node-package/actions/workflows/build.yml/badge.svg)](https://github.com/nakamorg/rei-node-package/actions)  [![publish Actions Status](https://github.com/nakamorg/rei-node-package/actions/workflows/publish.yml/badge.svg)](https://github.com/nakamorg/rei-node-package/actions)
 
-This is rei (example) node package, it's companion to the [Node Packages - Unit Tests and Github Actions](https://github.com/nakamorg/blogs/issues/2) blog issue. It is to demonstrate how to use and publish to github npm packages but these techniques can be used for other package registries with some changes.
+This is rei (example) node package, it's companion to the [Node Packages - Unit Tests and Github Actions](https://github.com/nakamorg/blogs/issues/2) blog issue to demonstrate using and publishing npm packages to github. But these techniques can be used for other package registries with some changes.
 
 ## Install
 
@@ -48,7 +48,7 @@ rei();
     ```
 1. npm install @nakamorg/rei-node-package # or your package.json file
 
-## Some References
+## References
 ### nvm (node version manager)
 You can use [nvm](https://github.com/nvm-sh/nvm) to install and manage multiple versions of node and npm. Install `nvm` using instruction from their github repo. Afterwards, installing and managing node and npm is as easy as this
 ```sh
