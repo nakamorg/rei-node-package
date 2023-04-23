@@ -2,7 +2,7 @@
 
 [![build Actions Status](https://github.com/nakamorg/rei-node-package/actions/workflows/build.yml/badge.svg)](https://github.com/nakamorg/rei-node-package/actions)  [![publish Actions Status](https://github.com/nakamorg/rei-node-package/actions/workflows/publish.yml/badge.svg)](https://github.com/nakamorg/rei-node-package/actions)
 
-This is rei (example) node package, it's companion to the [Node Packages - Unit Tests and Github Actions](https://github.com/nakamorg/blogs/issues/2) blog issue. It is to demonstrate how to use and publish to github npm packages but these techniques can be used for other package registries with some changes.
+This is rei (example) node package, it's companion to the [Node Packages - Unit Tests and Github Actions](https://github.com/nakamorg/blogs/issues/2) blog issue to demonstrate how to use and publish to github npm packages but these techniques can be used for other package registries with some changes.
 
 ## Install
 
